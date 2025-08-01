@@ -1,4 +1,4 @@
-▶️ [Open in Google Colab](https://colab.research.google.com/drive/1CWQrnGuoCP_N5I1joNtMYMm6H9ubgtab?usp=sharing)
+▶️ [Open in Google Colab](https://colab.research.google.com/drive/1CWQrnGuoCP_NS11joNtMYMm6H9ubqtab?usp=sharing)
 
 
 # 📊 Technical Report: Exploratory Data Analysis – Trading Dataset
